@@ -1,0 +1,143 @@
+.px-nav-4 {
+  padding-right: 40px !important;
+}
+
+.logo-one {
+  background-color: #FBE122;
+  padding-left: 100px;
+  padding-right: 40px;
+  padding-bottom: 15px;
+  transform: skew(-35deg);
+  margin-left: -35px;
+  -webkit-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+}
+
+.navbar-brand {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.bg-two {
+  background-color: #23292E;
+  color: #fff;
+}
+
+.h-10 {
+  z-index: 8888888888888899999;
+}
+
+p,
+ul {
+  margin: 0 !important;
+}
+
+.navbar-nav .nav-item {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-item button {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.w-30 {
+  width: 22%;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.w-30 span {
+  transform: skew(35deg);
+  margin-left: -35px;
+  -webkit-transform: skew(35deg);
+  -moz-transform: skew(35deg);
+  -ms-transform: skew(35deg);
+  -o-transform: skew(35deg);
+}
+
+.font-20 {
+  font-size: 22px;
+}
+
+.font-20 span {
+  background-color: #ED6663;
+  font-size: 12px;
+  color: #fff;
+  padding: 5px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  position: relative;
+  top: -15px;
+  left: -18px;
+}
+
+.carousel-item {
+  background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+.carousel-item div {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.radius-5 {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.m-fix {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.skew-one {
+  background-color: #FBE122;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  transform: skew(-35deg);
+  margin-left: -35px;
+  -webkit-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+}
+
+.skew-one span {
+  transform: skew(35deg);
+  -webkit-transform: skew(35deg);
+  -moz-transform: skew(35deg);
+  -ms-transform: skew(35deg);
+  -o-transform: skew(35deg);
+}
+
+.b-left {
+  border-left: 2px dotted #fff;
+}

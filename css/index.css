@@ -1,0 +1,17 @@
+.owl-dots {
+  display: block;
+}
+
+.owl-dots .owl-dot {
+  background-color: aliceblue !important;
+  padding: 5px !important;
+  width: 20px !important;
+  height: 20px !important;
+  margin-top: 20px !important;
+  margin: 10px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
